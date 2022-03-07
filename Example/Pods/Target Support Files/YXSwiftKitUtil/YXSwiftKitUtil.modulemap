@@ -1,0 +1,6 @@
+framework module YXSwiftKitUtil {
+  umbrella header "YXSwiftKitUtil-umbrella.h"
+
+  export *
+  module * { export * }
+}

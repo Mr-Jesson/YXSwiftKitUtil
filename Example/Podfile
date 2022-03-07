@@ -1,13 +1,13 @@
 use_frameworks!
 
-platform :ios, '9.0'
+platform :ios, '10.0'
 
 target 'YXSwiftKitUtil_Example' do
   pod 'YXSwiftKitUtil', :path => '../'
 
   target 'YXSwiftKitUtil_Tests' do
     inherit! :search_paths
-
     
   end
 end
+

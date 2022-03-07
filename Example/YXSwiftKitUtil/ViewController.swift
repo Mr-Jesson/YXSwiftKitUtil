@@ -7,11 +7,13 @@
 //
 
 import UIKit
+import YXSwiftKitUtil
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        YXKitLogger.show()
         // Do any additional setup after loading the view, typically from a nib.
     }
 
