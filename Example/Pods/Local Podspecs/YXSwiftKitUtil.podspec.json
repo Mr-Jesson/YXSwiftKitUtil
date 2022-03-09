@@ -1,5 +1,8 @@
 {
   "name": "YXSwiftKitUtil",
+  "pod_target_xcconfig": {
+    "VALID_ARCHS": "x86_64 armv7 arm64"
+  },
   "version": "0.1.0",
   "summary": "Swift常用Kit工具类",
   "description": "TODO: Add long description of the pod here.",
@@ -46,6 +49,12 @@
     ],
     "dsBridge": [
       "3.0.6"
+    ],
+    "SwiftyJSON": [
+      "5.0.0"
+    ],
+    "ObjectMapper": [
+      "4.2.0"
     ]
   }
 }

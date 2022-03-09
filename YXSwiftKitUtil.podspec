@@ -7,6 +7,7 @@
 #
 
 Pod::Spec.new do |s|
+  s.pod_target_xcconfig = { 'VALID_ARCHS' => 'x86_64 armv7 arm64' }
   s.name             = 'YXSwiftKitUtil'
   s.version          = '0.1.0'
   s.summary          = 'Swift常用Kit工具类'
@@ -45,4 +46,6 @@ TODO: Add long description of the pod here.
    s.dependency 'RxCocoa', '6.5.0'
    s.dependency 'RxDataSources', '5.0.0'
    s.dependency 'dsBridge', '3.0.6'
+   s.dependency 'SwiftyJSON', '5.0.0'
+   s.dependency 'ObjectMapper', '4.2.0'
 end

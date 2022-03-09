@@ -32,9 +32,9 @@ class YXKitLoggerFloatWindow: UIWindow {
         button.backgroundColor = UIColor.yx.color(hexString: "#5dae8b")
         button.setTitle("张", for: UIControl.State.normal)
         button.titleLabel?.font = UIFont.systemFont(ofSize: 23, weight: .bold)
-//        button.layer.borderColor = UIColor.yx.color(hexString: "#5dae8b").cgColor
+        button.layer.borderColor = UIColor.yx.color(hexString: "#FFFFFF").cgColor
         button.yx.addLayerShadow(color: UIColor.yx.color(hexValue: 0x333333), offset: CGSize(width: 2, height: 2), radius: 4, cornerRadius: 30)
-//        button.layer.borderWidth = 4.0
+        button.layer.borderWidth = 4.0
         button.addTarget(self, action: #selector(_show), for: UIControl.Event.touchUpInside)
         button.frame = CGRect(x: 0, y: 0, width: 60, height: 60)
 

@@ -8,7 +8,6 @@
 
 import UIKit
 import CommonCrypto
-//import YXKitFPS
 
 ///log的级别，对应不同的颜色
 public struct YXKitLogType : OptionSet {
