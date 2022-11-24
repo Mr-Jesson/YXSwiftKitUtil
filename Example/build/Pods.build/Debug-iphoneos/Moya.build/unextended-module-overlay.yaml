@@ -1,0 +1,14 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Debug-iphoneos/Moya/Moya.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Moya.build/unextended-module.modulemap",
+    }]
+  }]
+}

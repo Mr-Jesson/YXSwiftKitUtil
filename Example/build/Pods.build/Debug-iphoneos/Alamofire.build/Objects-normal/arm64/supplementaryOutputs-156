@@ -1,0 +1,20 @@
+"/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/Pods/Alamofire/Source/Response.swift":
+  diagnostics: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Response.dia"
+  object: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Response.o"
+  dependencies: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Response.d"
+  swift-dependencies: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Response.swiftdeps"
+"/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/Pods/Alamofire/Source/RequestTaskMap.swift":
+  swift-dependencies: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/RequestTaskMap.swiftdeps"
+  object: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/RequestTaskMap.o"
+  dependencies: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/RequestTaskMap.d"
+  diagnostics: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/RequestTaskMap.dia"
+"/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/Pods/Alamofire/Source/RequestInterceptor.swift":
+  swift-dependencies: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/RequestInterceptor.swiftdeps"
+  diagnostics: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/RequestInterceptor.dia"
+  object: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/RequestInterceptor.o"
+  dependencies: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/RequestInterceptor.d"
+"/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/Pods/Alamofire/Source/Request.swift":
+  object: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Request.o"
+  diagnostics: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Request.dia"
+  dependencies: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Request.d"
+  swift-dependencies: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Request.swiftdeps"

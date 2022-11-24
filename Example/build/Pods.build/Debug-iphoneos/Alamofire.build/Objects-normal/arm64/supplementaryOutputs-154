@@ -1,0 +1,20 @@
+"/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/Pods/Alamofire/Source/MultipartUpload.swift":
+  diagnostics: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/MultipartUpload.dia"
+  swift-dependencies: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/MultipartUpload.swiftdeps"
+  object: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/MultipartUpload.o"
+  dependencies: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/MultipartUpload.d"
+"/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/Pods/Alamofire/Source/OperationQueue+Alamofire.swift":
+  object: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/OperationQueue+Alamofire.o"
+  swift-dependencies: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/OperationQueue+Alamofire.swiftdeps"
+  dependencies: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/OperationQueue+Alamofire.d"
+  diagnostics: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/OperationQueue+Alamofire.dia"
+"/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/Pods/Alamofire/Source/NetworkReachabilityManager.swift":
+  object: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/NetworkReachabilityManager.o"
+  swift-dependencies: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/NetworkReachabilityManager.swiftdeps"
+  diagnostics: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/NetworkReachabilityManager.dia"
+  dependencies: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/NetworkReachabilityManager.d"
+"/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/Pods/Alamofire/Source/Notifications.swift":
+  swift-dependencies: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Notifications.swiftdeps"
+  diagnostics: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Notifications.dia"
+  object: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Notifications.o"
+  dependencies: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Notifications.d"

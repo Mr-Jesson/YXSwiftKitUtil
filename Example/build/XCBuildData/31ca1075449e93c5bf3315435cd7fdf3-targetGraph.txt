@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Alamofire in Pods, no dependencies
+Moya in Pods, depends on:
+Alamofire in Pods (explicit)

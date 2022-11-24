@@ -1,0 +1,112 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98ba3679b4c4428e6a6d83c5308d3af99b"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98f8f247496a5d5526043af52dfb3c7f73"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9841d366d981e4233eaafa9a008d15a5cd"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9809e9415e007d388d8dabf3f96584c627"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98ccdd62ebcb8ec5cb1c28d971ed529c37"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98e266e70b6aa0ecbabb490763fbb15a58"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e980daa2e2cd26ad5ca345c3044f7db418b"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98dca0619004b9d353cffe79ea74346f94"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e984f96f1021f5250ab30d486e660411efe"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9891ffb250f3b44ffb9b452226d52e9fa9"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e981130daa4894db4a9220537a0c61d4fd9"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9810f95f96c9da093b6a2c30db091f31b9"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e981b45391109da42aa9d1f276c4b5b9c7a"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98f30ca3c35256a7d8b8e1204072effc7c"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98ba6caff2f2912126fa7227e9a4678bfc"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98c2e432d9dac2e87cae45d757d28cc725"
+    }
+  ],
+  "containerPath" : "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos16.1",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64v8",
+        "arm64",
+        "armv8"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/jessonzhang/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/jessonzhang/Library/Developer/Xcode/DerivedData/Pods-fptgxvmivpeqalethalnekltkxqy/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/jessonzhang/Library/Developer/Xcode/DerivedData/Pods-fptgxvmivpeqalethalnekltkxqy/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone14,5",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "16.1.1",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone14,5",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "00008110-001929891E01801E",
+          "TARGET_DEVICE_MODEL" : "iPhone14,5",
+          "TARGET_DEVICE_OS_VERSION" : "16.1.1",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphoneos"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

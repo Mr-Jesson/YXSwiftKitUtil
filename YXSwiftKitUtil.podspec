@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.pod_target_xcconfig = { 'VALID_ARCHS' => 'x86_64 armv7 arm64' }
   s.name             = 'YXSwiftKitUtil'
-  s.version          = '0.1.0'
+  s.version          = '1.0.0'
   s.summary          = 'Swift常用Kit工具类'
 
 # This description is used to generate tags and improve search results.
@@ -31,13 +31,13 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '10.0'
 
-  s.source_files = 'YXSwiftKitUtil/Classes/**/*'
+  s.source_files = 'YXSwiftKitUtil/Classes/*.{swift}'
   
    s.resource_bundles = {
      'YXSwiftKitUtil' => ['YXSwiftKitUtil/Classes/src/*.png']
    }
 
-   s.public_header_files = 'Pod/Classes/**/*.h'
+   s.public_header_files = 'Pod/Classes/**/*.swift'
   # s.frameworks = 'UIKit', 'MapKit'
    s.dependency 'SnapKit', '5.0.0'
    s.dependency 'TangramKit', '1.4.2'

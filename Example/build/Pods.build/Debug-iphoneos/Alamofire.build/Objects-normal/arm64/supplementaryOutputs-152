@@ -1,0 +1,20 @@
+"/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/Pods/Alamofire/Source/Concurrency.swift":
+  dependencies: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Concurrency.d"
+  diagnostics: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Concurrency.dia"
+  object: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Concurrency.o"
+  swift-dependencies: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Concurrency.swiftdeps"
+"/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift":
+  dependencies: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/DispatchQueue+Alamofire.d"
+  object: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/DispatchQueue+Alamofire.o"
+  diagnostics: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/DispatchQueue+Alamofire.dia"
+  swift-dependencies: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/DispatchQueue+Alamofire.swiftdeps"
+"/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/Pods/Alamofire/Source/Combine.swift":
+  object: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Combine.o"
+  dependencies: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Combine.d"
+  swift-dependencies: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Combine.swiftdeps"
+  diagnostics: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Combine.dia"
+"/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/Pods/Alamofire/Source/CachedResponseHandler.swift":
+  diagnostics: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/CachedResponseHandler.dia"
+  swift-dependencies: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/CachedResponseHandler.swiftdeps"
+  object: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/CachedResponseHandler.o"
+  dependencies: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/CachedResponseHandler.d"

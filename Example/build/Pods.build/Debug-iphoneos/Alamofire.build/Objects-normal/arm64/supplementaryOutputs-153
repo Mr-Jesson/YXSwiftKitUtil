@@ -1,0 +1,20 @@
+"/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/Pods/Alamofire/Source/HTTPHeaders.swift":
+  object: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/HTTPHeaders.o"
+  dependencies: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/HTTPHeaders.d"
+  diagnostics: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/HTTPHeaders.dia"
+  swift-dependencies: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/HTTPHeaders.swiftdeps"
+"/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/Pods/Alamofire/Source/MultipartFormData.swift":
+  object: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/MultipartFormData.o"
+  dependencies: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/MultipartFormData.d"
+  swift-dependencies: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/MultipartFormData.swiftdeps"
+  diagnostics: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/MultipartFormData.dia"
+"/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/Pods/Alamofire/Source/HTTPMethod.swift":
+  object: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/HTTPMethod.o"
+  dependencies: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/HTTPMethod.d"
+  swift-dependencies: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/HTTPMethod.swiftdeps"
+  diagnostics: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/HTTPMethod.dia"
+"/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/Pods/Alamofire/Source/EventMonitor.swift":
+  swift-dependencies: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/EventMonitor.swiftdeps"
+  diagnostics: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/EventMonitor.dia"
+  object: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/EventMonitor.o"
+  dependencies: "/Users/jessonzhang/Desktop/Wonders/cocoapods/YXSwiftKitUtil/Example/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/EventMonitor.d"
