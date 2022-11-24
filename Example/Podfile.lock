@@ -1,5 +1,5 @@
 PODS:
-  - Alamofire (5.5.0)
+  - Alamofire (5.6.2)
   - Differentiator (5.0.0)
   - dsBridge (3.0.6)
   - Moya (15.0.0):
@@ -17,19 +17,19 @@ PODS:
   - RxRelay (6.5.0):
     - RxSwift (= 6.5.0)
   - RxSwift (6.5.0)
-  - SnapKit (5.0.0)
-  - SwiftyJSON (5.0.0)
+  - SnapKit (5.6.0)
+  - SwiftyJSON (5.0.1)
   - TangramKit (1.4.2)
-  - YXSwiftKitUtil (0.1.0):
-    - dsBridge (= 3.0.6)
-    - Moya (= 15.0.0)
-    - ObjectMapper (= 4.2.0)
-    - RxCocoa (= 6.5.0)
-    - RxDataSources (= 5.0.0)
-    - RxSwift (= 6.5.0)
-    - SnapKit (= 5.0.0)
-    - SwiftyJSON (= 5.0.0)
-    - TangramKit (= 1.4.2)
+  - YXSwiftKitUtil (1.0.0):
+    - dsBridge
+    - Moya
+    - ObjectMapper
+    - RxCocoa
+    - RxDataSources
+    - RxSwift
+    - SnapKit
+    - SwiftyJSON
+    - TangramKit
 
 DEPENDENCIES:
   - YXSwiftKitUtil (from `../`)
@@ -54,7 +54,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
   Differentiator: e8497ceab83c1b10ca233716d547b9af21b9344d
   dsBridge: 48b62ee8a411ad601a88d6f6c8cf6cb634b206b7
   Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
@@ -63,10 +63,10 @@ SPEC CHECKSUMS:
   RxDataSources: aa47cc1ed6c500fa0dfecac5c979b723542d79cf
   RxRelay: 1de1523e604c72b6c68feadedd1af3b1b4d0ecbd
   RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
-  SnapKit: fd22d10eb9aff484d79a8724eab922c1ddf89bcf
-  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
   TangramKit: aad3ab8f9617418c9da96d59cddd71134ae8af83
-  YXSwiftKitUtil: 99fb75c15f7a2e0c0d37c3f1f0f6cfaeefd674ee
+  YXSwiftKitUtil: abd9ce81879ef3bb196ed1ee714d7fd3903d1edf
 
 PODFILE CHECKSUM: e46179a17e803cedc305f1e8d33a27dff734456c
 

@@ -31,21 +31,21 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '10.0'
 
-  s.source_files = 'YXSwiftKitUtil/Classes/*.{swift}'
+  s.source_files = 'YXSwiftKitUtil/Classes/**/*.swift'
   
    s.resource_bundles = {
      'YXSwiftKitUtil' => ['YXSwiftKitUtil/Classes/src/*.png']
    }
 
-   s.public_header_files = 'Pod/Classes/**/*.swift'
+#   s.public_header_files = 'Pod/Classes/**/*'
   # s.frameworks = 'UIKit', 'MapKit'
-   s.dependency 'SnapKit', '5.0.0'
-   s.dependency 'TangramKit', '1.4.2'
-   s.dependency 'Moya', '15.0.0'
-   s.dependency 'RxSwift', '6.5.0'
-   s.dependency 'RxCocoa', '6.5.0'
-   s.dependency 'RxDataSources', '5.0.0'
-   s.dependency 'dsBridge', '3.0.6'
-   s.dependency 'SwiftyJSON', '5.0.0'
-   s.dependency 'ObjectMapper', '4.2.0'
+   s.dependency 'SnapKit'
+   s.dependency 'TangramKit'
+   s.dependency 'Moya'
+   s.dependency 'RxSwift'
+   s.dependency 'RxCocoa'
+   s.dependency 'RxDataSources'
+   s.dependency 'dsBridge'
+   s.dependency 'SwiftyJSON'
+   s.dependency 'ObjectMapper'
 end
